@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  url_launcher: ^6.1.10
+  mailto: ^2.0.0
 
 dev_dependencies:
   flutter_test:
